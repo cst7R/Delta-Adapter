@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and outputs
+logs/
+outputs/
+checkpoints/
+wandb/
+runs/
+
+# Data and model artifacts
+data/
+datasets/
+models/
+*.ckpt
+*.pth
+*.pt
+*.safetensors
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
