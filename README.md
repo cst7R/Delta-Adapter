@@ -1,8 +1,16 @@
-# Delta-Adapter
+# Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision
 
-**Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision**
-
-[Project Page](https://delta-adapter.github.io/) | Paper Coming Soon | Code Coming Soon
+<p align="center">
+  <a href="https://delta-adapter.github.io/">
+    <img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Paper-Coming%20Soon-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper Coming Soon">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Code-Coming%20Soon-black?style=for-the-badge&logo=github&logoColor=white" alt="Code Coming Soon">
+  </a>
+</p>
 
 <p align="center">
   <img src="assets/teaser.png" alt="Delta-Adapter teaser" width="95%">
