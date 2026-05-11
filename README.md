@@ -4,8 +4,11 @@
   <a href="https://delta-adapter.github.io/">
     <img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Project Page">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Paper-Coming%20Soon-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper Coming Soon">
+  <a href="https://arxiv.org/pdf/2605.07940">
+    <img src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Paper PDF">
+  </a>
+  <a href="https://arxiv.org/abs/2605.07940">
+    <img src="https://img.shields.io/badge/arXiv-2605.07940-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Code-Coming%20Soon-black?style=for-the-badge&logo=github&logoColor=white" alt="Code Coming Soon">
