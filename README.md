@@ -53,9 +53,10 @@ This repository is under preparation. We plan to release:
 ## Citation
 
 ```bibtex
-@misc{chen2026deltaadapter,
-  title={Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision},
-  author={Jiacheng Chen and Songze Li and Han Fu and Baoquan Zhao and Wei Liu and Yanyan Liang and Li Qing and Xudong Mao},
-  year={2026}
+@article{chen2026deltaadapter,
+      title={Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision}, 
+      author={Jiacheng Chen and Songze Li and Han Fu and Baoquan Zhao and Wei Liu and Yanyan Liang and Li Qing and Xudong Mao},
+      journal={arXiv preprint arXiv:2605.07940},
+      year={2026}
 }
 ```
